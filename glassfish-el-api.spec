@@ -7,7 +7,7 @@ Release:        5%{?dist}
 Summary:        Expression Language API 2.2.4
 # Part of implementation files contain ASL 2.0 copyright
 License:        (CDDL or GPLv2 with exceptions) and ASL 2.0
-URL:            http://uel.java.net
+URL:            https://uel.java.net
 # ./generate_tarball.sh
 Source0:        %{name}-%{version}.tar.gz
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt
